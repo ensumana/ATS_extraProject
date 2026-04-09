@@ -1,0 +1,7 @@
+streamlit
+pandas
+pdfplumber
+python-docx
+sentence-transformers
+openpyxl
+torch --index-url https://download.pytorch.org/whl/cpu
